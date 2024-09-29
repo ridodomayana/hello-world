@@ -7,7 +7,7 @@
 
 	<h1>Welcome to Ridocite Nigeria Limited</h1>
 <p>What willl be will surely be</p>
-
+<p>Wise words from RIdocite Nigeria Ltd</p>
 </body>
 </html>
 
