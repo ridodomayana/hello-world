@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>RIDOCITE NIGERIA LIMITED</title>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+	<h1>Welcome to Ridocite Nigeria Limited</h1>
+<p>What willl be will surely be</p>
 
 </body>
 </html>
