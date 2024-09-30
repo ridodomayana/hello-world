@@ -11,7 +11,7 @@
 
 <p>Dont Play or you will learn the hrd way</p>
 
-<p>Knowlegde is Power I tell you. </p>
+<p>Knowlegde is Power I tell you. Rido 2024 </p>
 </body>
 </html>
 
