@@ -11,7 +11,7 @@
 
 <p>Dont Play or you will learn the hrd way</p>
 
-<p>Knowlegde is Power</p>
+<p>Knowlegde is Power I tell you. </p>
 </body>
 </html>
 
