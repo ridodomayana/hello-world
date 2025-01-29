@@ -22,7 +22,7 @@ pipeline {
 
         stage("Checkout from SCM") {
             steps {
-                git branch: 'main', credentialsId: 'github', url: 'https://github.com/ridodomayana/hello-world.git'
+                git branch: 'master', credentialsId: 'github', url: 'https://github.com/ridodomayana/hello-world.git'
             }
         }
 
