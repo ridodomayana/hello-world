@@ -1,12 +1,12 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: rido-service
+  name: rido-hello-world-service
   labels:
-    app: regapp 
+    app: hello-world 
 spec:
   selector:
-    app: regapp 
+    app: hello-world 
 
   ports:
     - port: 8080
