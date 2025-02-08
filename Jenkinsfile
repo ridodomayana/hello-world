@@ -4,10 +4,6 @@ pipeline {
         jdk 'Java17'
         maven 'maven'
     }
-    environment {
-        APP_NAME = "hello-world"
-    }
-    
     stages{
         stage("Cleanup Workspace") {
             steps {
