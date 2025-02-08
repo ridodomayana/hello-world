@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'Slave'}
+    agent any
     tools {
         jdk 'Jdk17'
         maven 'maven'
@@ -12,12 +12,6 @@ pipeline {
         stage("Cleanup Workspace") {
             steps {
                 cleanWs()
-            }
-        }
-
-        stage("Checkout from SCM") {
-            steps {
-                git branch: 'master', credentialsId: 'github', url: 'https://github.com/ridodomayana/hello-world.git'
             }
         }
 
