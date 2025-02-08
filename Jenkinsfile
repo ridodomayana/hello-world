@@ -12,8 +12,10 @@ pipeline {
         }
 
         stage("Build Application") {
-            steps {
+            steps { 
+                dir('pom.xml') {
                 sh "mvn clean install"
+                }
             }
         }
 
